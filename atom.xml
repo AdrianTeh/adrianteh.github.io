@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://AdrianTeh.github.io/atom.xml" rel="self"/>
   <link href="http://AdrianTeh.github.io/"/>
-  <updated>2014-01-17T12:30:15-05:00</updated>
+  <updated>2014-01-17T13:02:13-05:00</updated>
   <id>http://AdrianTeh.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[No Special Characters]]></title>
+    <title type="html"><![CDATA[First Blog Post]]></title>
     <link href="http://AdrianTeh.github.io/blog/2014/01/17/no-special-characters/"/>
     <updated>2014-01-17T12:21:07-05:00</updated>
     <id>http://AdrianTeh.github.io/blog/2014/01/17/no-special-characters</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Bacon ipsum dolor sit amet kielbasa t-bone ham prosciutto, cow filet mignon ball tip jowl drumstick brisket. Turkey drumstick ribeye ham hock filet mignon. Pancetta frankfurter capicola meatball pork chop beef ribs swine shank. Meatball tongue hamburger, flank shoulder pastrami capicola. Pork belly chicken beef swine jerky, boudin prosciutto.</p>
+
+<p>Ground round pastrami jerky ham hock, meatloaf shoulder fatback kielbasa pork chop. Doner rump corned beef pork loin pork belly hamburger jerky pancetta brisket short loin spare ribs turkey beef ribs pastrami kevin. Short loin drumstick tri-tip sausage chicken, ball tip prosciutto jerky ribeye. Andouille landjaeger pork loin, prosciutto chuck pancetta short ribs hamburger short loin beef ribs sausage bacon kevin. Cow andouille drumstick, fatback jerky t-bone sirloin pork chop. Hamburger sausage bresaola brisket filet mignon, ribeye boudin landjaeger short loin. Hamburger short loin pork beef capicola pastrami chuck filet mignon flank.</p>
 ]]></content>
   </entry>
   
