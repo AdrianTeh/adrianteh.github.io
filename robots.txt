@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://AdrianTeh.github.io/sitemap.xml 
